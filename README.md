@@ -10,7 +10,7 @@ In case of any questions or problems, feel free to reach out to: `mheyden1@asu.e
 
 ## Installation Instructions
 
-### Setup up python kernel environment
+### Setup up python environment
 
 Use either `conda` or `mamba` to set up an environment with all packages required to run the Jupyter notebooks in this tutorial. 
 
