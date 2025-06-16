@@ -4,7 +4,11 @@ This tutorial is meant to provide hands-on experience with FREquency-SElective A
 
 A series of Jupyter notebooks will guide through the steps of the analysis and provides comparisons to harmonic normal modes (the key argument for FRESEAN mode analysis is that it does not rely on harmonic approximations). 
 
-Trajectory files for alanine dipeptide in the gas and solutions files are provided and the mathematical steps are explained step by step. 
+- 01-tutorial_MD-gas-50K.ipynb
+- 02-tutorial_MD-gas-300K.ipynb
+- 03_tutorial_MD-water-300K.ipynb
+
+Trajectory files for alanine dipeptide (in the gas phase at 50K and 300K and in solution/water at 300K) are provided and the mathematical steps are explained step by step. 
 
 In case of any questions or problems, feel free to reach out to: `mheyden1@asu.edu`
 
